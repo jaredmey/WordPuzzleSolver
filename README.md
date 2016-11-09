@@ -1,6 +1,6 @@
 #WordPuzzleSolver 
 
-WordPuzzleSolver is a Java application that takes in a .txt file puzzle, scans the puzzle for given words, and prints out their location if found.
+WordPuzzleSolver is a Java application that takes in a .txt file puzzle, scans the puzzle for given words, and prints out their location if found. This program was assigned as a project for my Software Design III course at the University of Wisconsin - La Crosse.
 
 The input file mimics the following layout:
 ```
@@ -35,5 +35,3 @@ The program outputs to the console and mimics the following layout:
 "stlouisrams" was not found.
 "eeeeee" was not found.
 ```
-
-WordPuzzleSolver was written for my Software Design III course at the University of Wisconsin - La Crosse.
