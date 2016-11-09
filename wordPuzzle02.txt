@@ -1,4 +1,5 @@
 5 5
+<<<<<<< HEAD
 bobua
 cdunf
 engtc
@@ -8,3 +9,19 @@ uncle
 aunt
 bob
 cat
+=======
+bobge
+gionr
+oaads
+dgwoa
+dwagy
+uncle
+billy
+jim
+aunt
+bob
+cat
+dwane
+dog
+swag
+>>>>>>> origin/master
